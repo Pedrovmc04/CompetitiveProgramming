@@ -6,6 +6,8 @@ using namespace std;
 #define pb push_back
 
 typedef int64_t ll;
+typedef pair<int,int> pii;
+typedef pair<int,pii> pip;
 
 const int maxn = 1e4;
 
